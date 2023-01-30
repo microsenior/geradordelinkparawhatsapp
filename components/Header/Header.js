@@ -9,7 +9,7 @@ import { HeaderWrapper } from './style'
 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-ga('create', 'UA-XXXXX-Y', 'auto');
+ga('create', '140536482-24', 'auto');
 ga('send', 'pageview');
 </script>
 <!-- End Google Analytics -->
